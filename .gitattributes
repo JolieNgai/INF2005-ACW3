@@ -1,0 +1,2 @@
+# Keep guest setup scripts runnable when copied from Windows.
+*.sh text eol=lf

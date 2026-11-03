@@ -1,9 +1,11 @@
-﻿# Python and local VMware lab files
+# Python and local lab files
 __pycache__/
 *.py[cod]
 .venv/
 .venv-vmware/
 .vmware-runtime/
+.venv-virtualbox/
+.virtualbox-runtime/
 evidence/
 
 # Virtual machines and installation media
@@ -13,3 +15,11 @@ evidence/
 *.vmss
 *.vmsn
 *.vmx.lck/
+*.vdi
+*.vhd
+*.vhdx
+*.vbox
+*.vbox-prev
+*.sav
+*.ova
+*.ovf
